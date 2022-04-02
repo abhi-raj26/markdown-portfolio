@@ -1,2 +1,2 @@
-Cricket
-Sports
+*Cricket
+*Sports
